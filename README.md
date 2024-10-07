@@ -1,5 +1,5 @@
 # 💫 About Me:
-<about me>
+I’m a Computer Science student at Georgia Tech with a passion for AI/ML and the potential it holds to shape the future. I thrive on solving real-world problems with technology and have experience in full-stack development, machine learning, and cloud deployment. From building intelligent systems to enhance memorization efficiency, to creating tools that optimize investments with environmental, social, and governance (ESG) principles, I enjoy working on projects that push the boundaries of innovation. I'm always looking to learn and apply new technologies, especially in the fields of artificial intelligence, machine learning, and large language models (LLMs).
 
 
 ## 🌐 Socials:
